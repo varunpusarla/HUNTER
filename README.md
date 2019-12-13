@@ -1,8 +1,5 @@
-# This Repo Was Commited By SpeedX's Commit Bot
+# This Repo Was Commited By thezodiactech
 ### GITHUB LINK
-<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
+<a href='https://www.thezodiactech.com'> Click Here </a>
 
-# This Repo Was Commited By SpeedX's Commit Bot
-### GITHUB LINK
-<a href='https://github.com/thespeedx/commit-bot'> Click Here </a>
-
+#
